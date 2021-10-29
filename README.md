@@ -1,16 +1,13 @@
-### Hi there 👋
+Hey! 👋😁
+<br>
+I'm Alvaro
 
-<!--
-**alvaroscelza/alvaroscelza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 I'm a Software Systems Engineer. <br>
+➿ I'm an enthusiast of Agile Development. <br>
+🧩 I've worked in several projects as both employee and entrepeneur. <br>
+🇺🇾 I'm uruguayan. <br>
+🇬🇧 Though we can speak English if you wish. <br>
+✈️ I love travelling. <br>
+☕ I'm adicted to coffee... and sometimes tea (specially [Lapsang Souchong](https://en.wikipedia.org/wiki/Lapsang_souchong)). <br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Visit my website](https://alvaroscelza.github.io/)
