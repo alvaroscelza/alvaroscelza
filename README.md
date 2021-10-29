@@ -1,4 +1,4 @@
-Hey! 👋😁
+Hey! 👋
 <br>
 I'm Alvaro
 
